@@ -1,7 +1,6 @@
-main
++ main
 # Prerequisites
 *.d
-+ main
 # Object files
 *.o
 *.ko
