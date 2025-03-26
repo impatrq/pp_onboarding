@@ -2,6 +2,6 @@
 
 
 int main(void) {
-    printf ("hola mundo");
+    printf ("esto es un archivo.c");
     return 2;
 }
